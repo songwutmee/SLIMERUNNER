@@ -19,6 +19,5 @@ The main goal is to collect gems while avoiding traps and dangerous obstacles. E
 | :--- | :--- |
 | **Move Left** | `A` |
 | **Move Right** | `D` |
-
 | **Jump** | `Spacebar` |
 | **Dash** | `Mouse Right` |
